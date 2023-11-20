@@ -3,7 +3,7 @@ defmodule Candlex.MixProject do
 
   @description "An Nx backend for candle machine learning minimalist framework"
   @source_url "https://github.com/xabi/candlex"
-  @version "0.1.5-alpha2"
+  @version "0.1.5-alpha3"
 
   @nerves_rust_target_triple_mapping %{
     "armv6-nerves-linux-gnueabihf": "arm-unknown-linux-gnueabihf"
