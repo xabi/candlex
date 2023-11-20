@@ -2,8 +2,8 @@ defmodule Candlex.MixProject do
   use Mix.Project
 
   @description "An Nx backend for candle machine learning minimalist framework"
-  @source_url "https://github.com/mimiquate/candlex"
-  @version "0.1.4"
+  @source_url "https://github.com/xabi/candlex"
+  @version "0.1.5-alpha2"
 
   @nerves_rust_target_triple_mapping %{
     "armv6-nerves-linux-gnueabihf": "arm-unknown-linux-gnueabihf"
